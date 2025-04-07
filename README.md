@@ -5,7 +5,9 @@
 **Curso:** UTFPR - Tecnologia de Sistemas para a Internet (TSI)<br><br><br>
 
 ## 📌 Descrição
-Aplicação para gerenciar os custos de um veículo, como abastecimentos, manutenções e impostos.
+O projeto visa desenvolver uma aplicação web com ênfase no uso do framework Angular, e também com outras tecnologias como HTML, CSS, JavaScript, em conjunto com outros frameworks de estilo, como o bootstrap.
+
+Em resumo, o VEM Automobil procura ser um gerenciador de custos monetários de um veículo, como manutenções (trocas de óleo, abastecimento, correia dentada, etc), e eventuais gastos diversos que envolva o veículo, como,  impostos, mão de obra dos mecânicos, etc. Esses requisitos estão sendo levantados para que tenha uma descrição mais bacana :)
 
 <br>
 
