@@ -1,6 +1,6 @@
 # VEM Automobil (Vehicle Expense Manager)
 
-**Autor:** João Victor Toniazzo de Oliveira<br>
+**Autor:** João Victor Toniazzo de Oliveira, Vitor Eduardo Witchemichen<br>
 **Disciplina:** Desenvolvimento de Aplicações Front-End com Frameworks e Componentes<br>
 **Curso:** UTFPR - Tecnologia de Sistemas para a Internet (TSI)<br><br><br>
 
