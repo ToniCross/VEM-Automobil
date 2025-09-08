@@ -12,12 +12,12 @@ Em resumo, o VEM Automobil procura ser um gerenciador de custos monetários de u
 <br>
 
 ## 🎨 Prototipação no Figma
-[🔗 Link para o Figma](#)
+[🔗 Link para o Figma](#https://www.figma.com/design/pajr0JT6hEsfZBbn37ONk4/VEM---Automobile?node-id=1-2)
 
 <br>
 
 ## 🧱 Design System
-[🔗 Link para o Design System](#)
+[🔗 Link para o Design System](#https://www.figma.com/design/pajr0JT6hEsfZBbn37ONk4/VEM---Automobile?node-id=0-1)
 
 <br>
 
