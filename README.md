@@ -1,40 +1,83 @@
-# VEM Automobil (Vehicle Expense Manager)
+# VEM Automobil (Vehicle Expense Manager) 
+## 📖 Descrição do Projeto – **VEM Automobil**
 
-**Autor:** João Victor Toniazzo de Oliveira, Vitor Eduardo Witchemichen<br>
-**Disciplina:** Desenvolvimento de Aplicações Front-End com Frameworks e Componentes<br>
-**Curso:** UTFPR - Tecnologia de Sistemas para a Internet (TSI)<br><br><br>
+O **VEM Automobil** é uma aplicação web desenvolvida com foco no **framework Angular**, integrando também tecnologias fundamentais como **HTML, CSS e JavaScript**, além de frameworks de estilo como **TailwindCSS** e **DaisyUI** para garantir uma interface moderna, responsiva e intuitiva.  
 
-## 📌 Descrição
-O projeto visa desenvolver uma aplicação web com ênfase no uso do framework Angular, e também com outras tecnologias como HTML, CSS, JavaScript, em conjunto com outros frameworks de estilo, como o bootstrap.
+O objetivo principal do sistema é fornecer um **gerenciador de custos de veículos**, permitindo que os usuários acompanhem e controlem todos os gastos relacionados à manutenção e uso de seus automóveis.  
 
-Em resumo, o VEM Automobil procura ser um gerenciador de custos monetários de um veículo, como manutenções (trocas de óleo, abastecimento, correia dentada, etc), e eventuais gastos diversos que envolva o veículo, como,  impostos, mão de obra dos mecânicos, etc. Esses requisitos estão sendo levantados para que tenha uma descrição mais bacana :)
+## 👨‍💻 Autores e Mantenedores do Projeto
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ToniCross">
+        <img src="https://github.com/ToniCross.png" width="200px;" alt="Foto João Victor"/><br>
+        <span style="font-size:18px;"><b>João Victor Toniazzo de Oliveira</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vitoredu2230">
+        <img src="https://github.com/vitoredu2230.png" width="200px;" alt="Foto Vitor"/><br>
+        <span style="font-size:18px;"><b>Vitor Eduardo Witchemichen</b></span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Estudantes do curso **Tecnologia de Sistemas para a Internet (TSI) da UTFPR** campus Guarapuava
+
+### 👨‍🏫 Professor e Orientador
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ronifabio">
+        <img src="https://github.com/ronifabio.png" width="200px;" alt="Foto Vitor"/><br>
+        <span style="font-size:18px;"><b>Roni Fabio Banaszewski</b></span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Formado em Análise de Sistemas, mestre e doutor na área de Engenharia da Computação. Atualmente professor de TSI na UTFPR campus Guarapuava
 
 <br>
 
-## 🎨 Prototipação no Figma
-[🔗 Link para o Figma]
+## 🎯 Objetivos do Sistema
+- Registrar e organizar **custos de manutenção**  
+  _(ex.: trocas de óleo, correia dentada, pneus, revisões)_.  
+- Acompanhar **despesas recorrentes**  
+  _(ex.: abastecimento, impostos, seguros)_.  
+- Gerenciar **custos adicionais**  
+  _(ex.: mão de obra de mecânicos, peças extras, taxas diversas)_.  
+- Fornecer uma visão consolidada das despesas do veículo, auxiliando o usuário a **planejar melhor seu orçamento**.  
 
 <br>
 
-## 🧱 Design System
+## 🛠️ Tecnologias Utilizadas
+- **Angular** → framework principal da aplicação.  
+- **HTML, CSS e JavaScript** → base do desenvolvimento web.  
+- **TailwindCSS** e **DaisyUI** → estilização e responsividade.  
+- **TypeScript** → maior organização e tipagem do código.  
+
+<br>
+
+## 🎨 Prototipação no Figma / Design System
 https://www.figma.com/design/pajr0JT6hEsfZBbn37ONk4/VEM---Automobile?node-id=0-1&t=iqIuM8hMmjiJkOUH-1
 
 <br>
 
-## 🏜️ Framework CSS
-https://tailwindcss.com/
+## 🔗 Links Úteis das Ferramentas
+
+- [🌐 Angular](https://angular.io/) – Framework principal da aplicação.  
+- [🎨 TailwindCSS](https://tailwindcss.com/) – Estilização utilitária e responsiva.  
+- [💠 DaisyUI](https://daisyui.com/) – Componentes pré-estilizados baseados em Tailwind.  
+- [🤖 StichAI](https://stichai.com/) – Plataforma de inteligência artificial para automação e integração.  
+- [🔣 Iconify](https://iconify.design/) – Biblioteca com milhares de ícones para uso em projetos web.  
+- [🎨 Make to Figma](https://www.figma.com/community/plugin/742764242781786818/Make-to-Figma) – Plugin para criação e prototipagem rápida no Figma.  
 
 <br>
 
-## 📦 Dependências
-- React
-- Axios
-- React Router
-- (outras que utilizar)
+### 🚀 Link para o site em produção
 
-<br>
-
-## 🚀 Link para o site em produção
 [🔗 GitHub Pages](#)
 
 <br>
@@ -42,8 +85,8 @@ https://tailwindcss.com/
 ## ✅ Checklist de Funcionalidades
 
 ### RA1 - Prototipar e projetar interfaces gráficas de usuário, considerando princípios de usabilidade e experiência do usuário.
-- [ ] ID1: Desenvolver protótipos de interfaces que demonstram compreensão das diretrizes de usabilidade.
-- [ ] ID2: Projetar interfaces responsivas que se adaptam a diferentes tamanhos de tela.
+- [x] ID1: Desenvolver protótipos de interfaces que demonstram compreensão das diretrizes de usabilidade.
+- [x] ID2: Projetar interfaces responsivas que se adaptam a diferentes tamanhos de tela.
       
 ### RA2 - Criar e reutilizar componentes em frameworks frontend, desenvolvendo interfaces modulares, responsivas e estilizadas.
 - [ ] ID3: Desenvolver componentes reutilizáveis e que se adaptem de maneira responsiva em vários tamanhos de tela.
