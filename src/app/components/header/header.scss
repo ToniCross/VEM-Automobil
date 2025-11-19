@@ -1,32 +1,39 @@
-/* HEADER COMPONENT  --------------------------------------------- */
+/* ============================================================
+   HEADER COMPONENT
+   ============================================================ */
 
+/* GLOBAL ----------------------------------------------------- */
+body {
+    margin: 0 !important;
+}
+
+/* ROOT FRAME ------------------------------------------------- */
 .depth-frame {
     display: flex;
     flex-direction: column;
-    min-height: 80px;
     align-items: flex-start;
-    position: relative;
     width: 100%;
     background-color: #111921;
+    position: relative;
 }
 
 .div {
     display: flex;
     width: 100%;
-    flex-direction: column;
     align-items: flex-start;
     position: relative;
 }
 
+/* HEADER WRAPPER --------------------------------------------- */
 .depth-frame-2 {
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 12px 40px;
-    border-bottom: 1px solid #e5e8ea;
-    display: flex;
     width: 100%;
 }
 
+/* LOGO + NOME -------------------------------------------------- */
 .depth-frame-3 {
     display: inline-flex;
     align-items: center;
@@ -51,6 +58,7 @@
     line-height: 23px;
 }
 
+/* NAVIGATION --------------------------------------------------- */
 .depth-frame-4 {
     display: flex;
     align-items: center;
@@ -61,11 +69,12 @@
 
 .depth-frame-5 {
     display: inline-flex;
-    height: 40px;
     align-items: center;
+    height: 40px;
     gap: 36px;
 }
 
+/* NAV TEXT ----------------------------------------------------- */
 .text-wrapper {
     font-family: "Manrope-Medium", Helvetica, sans-serif;
     font-weight: 500;
@@ -74,6 +83,7 @@
     line-height: 21px;
 }
 
+/* EXTRA ELEMENTS (caso usados) -------------------------------- */
 .depth-frame-6 {
     display: flex;
     flex-direction: column;
@@ -93,7 +103,6 @@
     width: 40px;
     height: 40px;
     border-radius: 20px;
-    //background-image: url("assets/img/depth-4-frame-2.png");
     background-size: cover;
-    background-position: center;
+    background-position: center;
 }

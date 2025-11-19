@@ -1,5 +1,33 @@
 <app-header></app-header>
-<main>
+<main class="main-wrapper">
   <router-outlet></router-outlet>
+  <section class="hero-section">
+    <h1 class="hero-title">Bem-vindo ao VEM Automobil</h1>
+    <p class="hero-subtitle">
+      Acompanhe seus veículos, controle gastos e visualize informações importantes em um único
+      lugar.
+    </p>
+  </section>
+
+  <section class="cards-section">
+    <div class="info-card">
+      <h3 class="card-title">Veículos Cadastrados</h3>
+      <p class="card-value">12</p>
+      <span class="card-description">Total de veículos monitorados</span>
+    </div>
+
+    <div class="info-card">
+      <h3 class="card-title">Despesas Mensais</h3>
+      <p class="card-value">R$ 842,90</p>
+      <span class="card-description">Últimos 30 dias</span>
+    </div>
+
+    <div class="info-card">
+      <h3 class="card-title">Próxima Manutenção</h3>
+      <p class="card-value">Etius HB20</p>
+      <span class="card-description">Troca de óleo em 12 dias</span>
+    </div>
+  </section>
 </main>
+
 <app-footer></app-footer>
