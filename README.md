@@ -5,7 +5,7 @@ O **VEM Automobil** é uma aplicação web desenvolvida com foco no **framework 
 
 O objetivo principal do sistema é fornecer um **gerenciador de custos de veículos**, permitindo que os usuários acompanhem e controlem todos os gastos relacionados à manutenção e uso de seus automóveis.  
 
-## 👨‍💻 Autores e Mantenedores do Projeto
+### 👨‍💻 Autor e Mantenedor do Projeto
 <table>
   <tr>
     <td align="center">
@@ -14,16 +14,10 @@ O objetivo principal do sistema é fornecer um **gerenciador de custos de veícu
         <span style="font-size:18px;"><b>João Victor Toniazzo de Oliveira</b></span>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/vitoredu2230">
-        <img src="https://github.com/vitoredu2230.png" width="200px;" alt="Foto Vitor"/><br>
-        <span style="font-size:18px;"><b>Vitor Eduardo Witchemichen</b></span>
-      </a>
-    </td>
   </tr>
 </table>
 
-Estudantes do curso **Tecnologia de Sistemas para a Internet (TSI) da UTFPR** campus Guarapuava
+Estudante do curso **Tecnologia de Sistemas para a Internet (TSI) da UTFPR** campus Guarapuava
 
 ### 👨‍🏫 Professor e Orientador
 <table>
@@ -38,6 +32,20 @@ Estudantes do curso **Tecnologia de Sistemas para a Internet (TSI) da UTFPR** ca
 </table>
 
 Formado em Análise de Sistemas, mestre e doutor na área de Engenharia da Computação. Atualmente professor de TSI na UTFPR campus Guarapuava
+
+### 👨‍💻 Menção honrosa do Projeto
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vitoredu2230">
+        <img src="https://github.com/vitoredu2230.png" width="200px;" alt="Foto Vitor"/><br>
+        <span style="font-size:18px;"><b>Vitor Eduardo Witchemichen</b></span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Por ter contribuído com a fase inicial do projeto, demonstrando iniciativa e colaboração no desenvolvimento das ideias e na construção dos primeiros passos da proposta.
 
 <br>
 
